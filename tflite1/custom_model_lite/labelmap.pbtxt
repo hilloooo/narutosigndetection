@@ -1,0 +1,60 @@
+item {
+  id: 1
+  name: 'hitsuji'
+}
+
+item {
+  id: 2
+  name: 'i'
+}
+
+item {
+  id: 3
+  name: 'inu'
+}
+
+item {
+  id: 4
+  name: 'mi'
+}
+
+item {
+  id: 5
+  name: 'ne'
+}
+
+item {
+  id: 6
+  name: 'saru'
+}
+
+item {
+  id: 7
+  name: 'tatsu'
+}
+
+item {
+  id: 8
+  name: 'tora'
+}
+
+item {
+  id: 9
+  name: 'tori'
+}
+
+item {
+  id: 10
+  name: 'u'
+}
+
+item {
+  id: 11
+  name: 'uma'
+}
+
+item {
+  id: 12
+  name: 'ushi'
+}
+

@@ -1,0 +1,2 @@
+conda activate tflite1-env
+python TFLite_detection_webcam.py --modeldir=custom_model_lite
